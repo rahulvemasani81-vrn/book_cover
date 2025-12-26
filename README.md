@@ -29,6 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -127,6 +128,7 @@ body {
     font-size: 29px;
     font-weight: bold;
 }
+~~~
 
 # OUTPUT:
 <img width="818" height="492" alt="image" src="https://github.com/user-attachments/assets/5728611a-8bf6-44a4-80de-ba60a74437c2" />
